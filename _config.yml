@@ -1,7 +1,7 @@
 name: fontainephotography
 favicon: null
-layout_spectrum: 0.6397588835097849
-typography_spectrum: 0.3587600092869252
+layout_spectrum: 0
+typography_spectrum: 0.00866
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#f7f7f7'
+    - '#040404'
+    - '#676767'
+    - '#8d8d8d'
+    - '#4d4d4d'
   brandStrength: 0.6059783715754747
   lightness: 0.03168855817057192
   saturation: 0.007280409103259444
